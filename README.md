@@ -1,0 +1,2 @@
+# stralci
+Stralci di codice
